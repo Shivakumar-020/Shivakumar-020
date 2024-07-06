@@ -1,5 +1,5 @@
 <h1 align="left">Hey! 👋</h1>
-<h3 align="left">🚀 I'm a Data Engineer | Transforming Insights with 2+ Years of Expertise</h3></h3>
+<h3 align="left">🚀 I'm a Data Engineer | Transforming Insights with 3 Years of Expertise</h3></h3>
 
 - 😄 My pronouns are: He/His/Him
 - 🔭 Crafting data solutions as a Data Engineer, I specialize in turning raw information into actionable insights.
